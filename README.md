@@ -1,4 +1,4 @@
-# PracticaS14-Programación IV-C3
+# PracticaS14-Programación IV Computo 3
 
 UNIVESIDAD GERARDO BARRIOS
 
